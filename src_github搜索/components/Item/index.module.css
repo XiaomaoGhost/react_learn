@@ -1,0 +1,17 @@
+.item {
+    height: 300px;
+    background-color: #282c34;
+}
+.imgDiv {
+    height: 250px;
+}
+.imgDiv img {
+    width: 100%;
+    height: 100%;
+}
+.text {
+    text-align: center;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+}

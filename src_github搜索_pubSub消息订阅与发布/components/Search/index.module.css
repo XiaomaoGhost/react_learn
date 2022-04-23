@@ -1,0 +1,14 @@
+.ipt {
+    height: 50px;
+    width: 650px;
+    outline: none;
+    font-size: 24px;
+    padding-left: 24px;
+}
+.btn {
+    height: 54px;
+    width: 120px;
+    vertical-align: top;
+    background-color: #282c34;
+    color: #fff;
+}

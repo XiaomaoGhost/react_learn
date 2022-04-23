@@ -1,0 +1,20 @@
+.main {
+    box-shadow: 5px 5px 10px rgba(0,0,0,.3);
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    padding-left: 30px;
+}
+.btn {
+    position: absolute;
+    right: 30px;
+    top: 5px;
+    color: #fff;
+    background-color: #282c34;
+    height: 40px;
+}
+.checkBox {
+    width: 20px;
+    height: 20px;
+    vertical-align: -5px;
+}

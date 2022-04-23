@@ -1,0 +1,12 @@
+.main {
+    margin-top: 50px;
+    width: 100%;
+    display: grid;
+    grid-template-columns:repeat(5,120px);
+    grid-column-gap:50px;
+    grid-row-gap: 30px;
+}
+.noSearch {
+    margin-top: 50px;
+    text-align: center;
+}
